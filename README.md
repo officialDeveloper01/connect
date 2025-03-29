@@ -1,7 +1,7 @@
 Chat Application using React.JS + Firebase real-time Database + Firebase Gmail Authentication
 =====================================
 
-I build this app for learning purpose. you can check the live 💁‍♂️ [demo]
+I build this app for learning purpose. you can check the live 💁‍♂️ [demo]('connect-chatroom.vercel.app')
 
 Quick Start:
 ------------
